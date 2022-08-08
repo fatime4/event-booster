@@ -1,1 +1,1 @@
-EventBooster - Search for events around the world! https://ydovzhyk.github.io/EventBooster/
+EventBooster - Search for events around the world! 
